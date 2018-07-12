@@ -1,4 +1,9 @@
-/node_modules
-/config
-/dist
-/src/config
+.DS_Store
+node_modules/
+.vscode/
+dist/
+/theme
+npm-debug.log
+yarn-error.log
+.idea
+config.json
